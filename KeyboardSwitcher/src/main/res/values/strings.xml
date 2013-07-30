@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KeyboardSwitcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="notification_title">Change Keyboard</string>
+    <string name="notification_content">Click here to change input method</string>
+
+</resources>
